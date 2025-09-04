@@ -1,0 +1,3 @@
+[submodule "rodionova"]
+	path = rodionova
+	url = git@github.com:kuzmich/rodionova.git
